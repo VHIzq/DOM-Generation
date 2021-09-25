@@ -4,3 +4,5 @@ const edadFunc = () => {
   edadBtn >= 18 ? respuesta.textContent = "Eres mayor de edad" : respuesta.textContent = "Eres menor de edad";
 };
 
+
+/* eventeos */
